@@ -8,7 +8,7 @@ permissions:
   packages: write
  
 env:
-  IMAGE: ghcr.io/gotadsuraj570-designgir/devops-demo:latest
+  IMAGE: ghcr.io/gotadsuraj570-design/devops-demo:latest
  
 jobs:
   build-test:
